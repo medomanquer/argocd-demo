@@ -1,3 +1,6 @@
+labels:
+  name: python-helloworld
+  
 namespace:
   name: test
  
