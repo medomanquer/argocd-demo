@@ -1,5 +1,2 @@
-labels:
-  name: python-helloworld-prod
-  
 namespace:
   name: prod 
